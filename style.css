@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(198, 232, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1.5em;
+    
+}
+
+h1{
+   text-align: center;
+   background-color: rgb(75, 245, 75); 
+   font-size: 38px;
+}
+
+#ol-methods{
+
+    border-color: rgb(255, 196, 0);
+    border-style: double;
+    border-radius: 0.35em;
+    font-size: 28px;
+}
+
+.li{
+    border-color: rgb(255, 196, 0);
+    border-radius: 0.30em;
+}
